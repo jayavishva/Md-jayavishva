@@ -1,63 +1,77 @@
+
 <html>
 <head>
     <title>Invoice</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <table border="1"  >
 
-    <tr>
+    <tr class="c1">
         <td colspan="3"><b>Invoice : #56789</b></td>
         <td><b>31 May 2026</b></td>
     </tr>
 
  
-    <tr>
-        <td colspan="2">
+    <tr class="c2">
+        <td  id="d1" colspan="2" >
             <b>Pay To:</b><br><br>
-            &nbsp &nbsp ABC Company<br>
-            &nbsp &nbsp Delhi
+            &nbsp &nbsp &nbsp ABC Company<br>
+            &nbsp &nbsp &nbsp Delhi
         </td>
 
-        <td colspan="2">
+        <td id="d2" colspan="2">
             <b>Customer</b><br><br>
-            &nbsp &nbsp Ajay Kumar<br>
-            &nbsp &nbsp Chennai
+            &nbsp &nbsp &nbsp Ajay Kumar<br>
+            &nbsp &nbsp &nbsp Chennai
         </td>
     </tr>
-    <tr>
-        <th>product</th>
-        <th>quantity</th>
-        <th>per price</th>
-        <th>cost</th>
+
+    <tr class="c3">
+        <th>&nbsp Name</th>
+        <th>&nbsp Quantity</th>
+        <th>&nbsp Per Price</th>
+        <th>&nbsp Cost</th>
     </tr>
-    <tr>
-        <td>pen</td>
-        <td>25</td>
-        <td>20</td>
-        <td>500</td>
+
+    <tr class="c4">
+        <td>&nbsp Pen</td>
+        <td>&nbsp 25</td>
+        <td>&nbsp 20</td>
+        <td>&nbsp 500</td>
     </tr>
-    <tr>
-        <td>pencil</td>
-        <td>30</td>
-        <td>5</td>
-        <td>150</td>
+
+
+    <tr class="c4">
+        <td>&nbsp Pencil</td>
+        <td>&nbsp 15</td>
+        <td>&nbsp 10</td>
+        <td>&nbsp 150</td>
     </tr>
-    <tr>
-        <td colspan="3"><b>sub total</b></td>
-        <td>650</td>
+
+
+    <tr class="c2">
+        <td colspan="3" class="c6">&nbsp <b>Sub Total</b></td>
+        <td class="d4">&nbsp 650</td>
     </tr>
-    <tr>
-        <td colspan="2"><b>GST</b></td>
-        <td>10%</td>
-        <td>65</td>
+
+
+    <tr class="c2">
+        <td colspan="2" class="c6">&nbsp <b>Tax</b></td>
+        <td class="c6">&nbsp 10%</td>
+        <td class="d4">&nbsp 65</td>
     </tr>
-    <tr>
-        <td colspan="3"><b>Grand total</b></td>
-        <td>715/-</td>
+
+
+    <tr class="c5">
+        <td colspan="3" align="center">
+            <b>&nbsp Grand Total</b>
+        </td>
+        <td id="d3">&nbsp Rs. 715/-</td>
     </tr>
 
 </table>
-</form>
+
 </body>
 </html>
