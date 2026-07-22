@@ -1,0 +1,33 @@
+.c1{ 
+   background:gray ;
+   color:white;
+}
+.c2{ 
+   background:yellow ;
+}
+.c3{ 
+   background:lightgreen ;
+   color:green;
+}
+.c4{ 
+   background:white ;
+   color:brown;
+}
+.c5{ 
+   background:lightgreen ;
+   color:red;
+
+}
+.c6{ 
+   color:black; 
+}
+#d1,#d2{
+   color:red;
+}
+#d3{
+   font-weight:bold;   
+}
+.d4{ 
+   color:black;
+   font-weight:bold; 
+}
