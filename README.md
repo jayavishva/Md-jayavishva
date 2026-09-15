@@ -1,5 +1,5 @@
 # Md-jayavishva
-<h1 align="center">Hi , I'm [Your Name]</h1>
+<h1 align="center">Hi , I'm jayavishva</h1>
 <h3 align="center">
  Full Stack Web Developer | Passionate Problem Solver | Building 
 Modern Web Experiences
@@ -35,7 +35,7 @@ the-badge&logo=linkedin"/>
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-
 the-badge&logo=vercel"/>
 </a>
-<a href="mailto:[Email Address]">
+<a href="mailto: jayavishva3@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-
 badge&logo=gmail"/>
 </a>
